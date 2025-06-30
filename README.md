@@ -42,7 +42,7 @@ cd backend
 python manage.py runserver
 ```
 ```bash
-python manage.py parse_ais.py
+python manage.py parse_ais
 ```
 Запускаем frontend
 ```bash
